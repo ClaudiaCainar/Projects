@@ -1,0 +1,4 @@
+#Wed Jan 30 09:37:03 UTC 2019
+-Xms=256m
+-XX\:MaxPermSize\==256m
+-Xmx=1024m

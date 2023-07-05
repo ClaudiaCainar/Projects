@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.sirius.properties.feature"
+      label="%featureName"
+      version="6.1.1.201810260931"
+      provider-name="%providerName">
+
+   <description url="http://www.eclipse.org/sirius">
+      Runtime support for Sirius-defined property views.
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.sirius.interpreter"
+         download-size="29"
+         install-size="54"
+         version="6.1.1.201810260931"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.sirius.properties"
+         download-size="367"
+         install-size="1049"
+         version="6.1.1.201810260931"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.sirius.properties.edit"
+         download-size="397"
+         install-size="923"
+         version="6.1.1.201810260931"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.sirius.properties.core"
+         download-size="160"
+         install-size="443"
+         version="6.1.1.201810260931"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.sirius.ui.properties"
+         download-size="69"
+         install-size="161"
+         version="6.1.1.201810260931"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.sirius.editor.properties.ext.widgets.reference"
+         download-size="32"
+         install-size="64"
+         version="6.1.1.201810260931"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.sirius.properties.ext.widgets.reference"
+         download-size="40"
+         install-size="95"
+         version="6.1.1.201810260931"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.sirius.properties.ext.widgets.reference.edit"
+         download-size="45"
+         install-size="87"
+         version="6.1.1.201810260931"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.sirius.ui.properties.ext.widgets.reference"
+         download-size="18"
+         install-size="34"
+         version="6.1.1.201810260931"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.sirius.properties.defaultrules"
+         download-size="14"
+         install-size="29"
+         version="6.1.1.201810260931"
+         unpack="false"/>
+
+</feature>

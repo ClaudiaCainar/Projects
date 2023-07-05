@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-271.0" y="512.0">controller.Controller</node>
+    <node x="-602.0" y="150.0">model.Polynomial</node>
+    <node x="-248.0" y="822.0">view.Application</node>
+    <node x="-663.5" y="523.5">model.Operations</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="view.Application" target="controller.Controller" relationship="CREATE">
+      <point x="-80.0" y="-215.0" />
+      <point x="-80.0" y="105.0" />
+    </edge>
+    <edge source="view.Application" target="model.Operations" relationship="CREATE">
+      <point x="-80.0" y="-215.0" />
+      <point x="-244.0" y="797.0" />
+      <point x="-484.0" y="797.0" />
+      <point x="0.0" y="93.5" />
+    </edge>
+    <edge source="controller.Controller" target="model.Polynomial" relationship="CREATE">
+      <point x="0.0" y="-105.0" />
+      <point x="-164.0" y="477.0" />
+      <point x="-484.0" y="477.0" />
+      <point x="0.0" y="127.0" />
+    </edge>
+    <edge source="model.Operations" target="model.Polynomial" relationship="CREATE">
+      <point x="0.0" y="-93.5" />
+      <point x="0.0" y="127.0" />
+    </edge>
+    <edge source="controller.Controller" target="view.Application" relationship="TO_ONE">
+      <point x="0.0" y="105.0" />
+      <point x="0.0" y="-215.0" />
+    </edge>
+    <edge source="view.Application" target="controller.Controller" relationship="TO_ONE">
+      <point x="60.0" y="-215.0" />
+      <point x="60.0" y="105.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="0.5873440285204992" showDependencies="true" x="-350.5" y="711.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

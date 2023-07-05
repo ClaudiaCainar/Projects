@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.obeonetwork.dsl.uml2.branding;singleton:=true
+Bundle-Name: UML Designer Branding
+Bundle-Version: 9.0.0.201901300933
+Archiver-Version: Plexus Archiver
+Bundle-Localization: plugin
+Built-By: travis
+Require-Bundle: org.eclipse.ui.intro.universal,org.eclipse.ui.intro;bu
+ ndle-version="3.4.200",org.eclipse.ui
+Bundle-ManifestVersion: 2
+Bundle-Vendor: Obeo Network
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_151
+

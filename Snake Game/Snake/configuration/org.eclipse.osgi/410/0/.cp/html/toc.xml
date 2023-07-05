@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<toc topic="html/index.html" label="UML Designer">
+	<topic href="html/overview/index.html" label="Overview"></topic>
+ <topic href="html/download/index.html" label="Download">
+ </topic>
+ <topic label="Tutorials">
+    <topic href="html/tutorials/tuto-getting-started.html" label="Getting started">
+    </topic>
+    <topic href="html/tutorials/tuto-create-project.html" label="Create project">
+    </topic>
+    <topic href="html/tutorials/tuto-create-representation.html" label="Create representation">
+    </topic>
+    <topic href="html/tutorials/tuto-import-model.html" label="Import model">
+    </topic>
+    <topic href="html/tutorials/tuto-start-example.html" label="Open example">
+    </topic>
+ </topic>
+ <topic label="User Guide">
+    <topic href="html/ref-doc/define-the-system.html#dashboard" label="Dashboard">
+    </topic>
+    <topic href="html/ref-doc/define-the-application.html#activity-diagram" label="Activity diagram">
+    </topic>
+    <topic href="html/ref-doc/implement-the-application.html#class-diagram" label="Class diagram">
+    </topic>
+    <topic href="html/ref-doc/define-the-application.html#component-diagram" label="Component diagram">
+    </topic>
+    <topic href="html/ref-doc/define-the-application.html#composite-structure-diagram" label="Composite Structure diagram">
+    </topic>
+    <topic href="html/ref-doc/define-the-application.html#deployment-diagram" label="Deployment diagram">
+    </topic>
+    <topic href="html/ref-doc/define-the-application.html#package-diagram" label="Package diagram">
+    </topic>
+    <topic href="html/ref-doc/define-the-application.html#profile-diagram" label="Profile diagram">
+    </topic>
+    <topic href="html/ref-doc/implement-the-application.html#sequence-diagram" label="Sequence diagram">
+    </topic>
+    <topic href="html/ref-doc/implement-the-application.html#state-machine-diagram" label="State Machine diagram">
+    </topic>
+    <topic href="html/ref-doc/define-the-application.html#use-case-diagram" label="Use Case diagram">
+    </topic>
+ </topic>
+ <topic label="Developer Guide">
+    <topic href="html/developer-guide/contribute.html" label="Contribute">
+    </topic>
+    <topic href="html/developer-guide/build.html" label="Build">
+    </topic>
+    <topic href="html/developer-guide/test.html" label="Test">
+    </topic>
+    <topic href="html/developer-guide/release.html" label="Release">
+    </topic>
+    <topic href="html/developer-guide/documentation.html" label="Build documentation">
+    </topic>
+ </topic>
+  <topic label="Reference Documentation">
+    <topic href="html/ref-doc/presentation.html" label="Presentation">
+    </topic>
+    <topic href="html/ref-doc/define-the-system.html" label="Define the system">
+    </topic>
+    <topic href="html/ref-doc/define-the-application.html" label="Define the application">
+    </topic>
+    <topic href="html/ref-doc/implement-the-application.html" label="Implement the application">
+    </topic>
+    <topic href="html/ref-doc/write-the-application-documentation.html" label="Write the application documentation">
+    </topic>
+    <topic href="html/ref-doc/refactor-an-application.html" label="Refactor an application">
+    </topic>
+    <topic href="html/ref-doc/validate-an-application.html" label="Validate an application">
+    </topic>
+    <topic href="html/ref-doc/non-goals.html" label="Non goals">
+    </topic>
+    <topic href="html/ref-doc/usage.html" label="Usage">
+    </topic>
+    <topic href="html/ref-doc/umlgen.html" label="UML Generators">
+    </topic>
+ </topic>
+  <topic href="html/support/index.html" label="Support">
+  </topic>
+  <topic href="html/faq/index.html" label="FAQ">
+  </topic>
+</toc>
